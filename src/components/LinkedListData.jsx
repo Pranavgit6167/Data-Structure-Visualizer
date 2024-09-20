@@ -123,6 +123,7 @@ function LinkedListData() {
             alt="Node Diagram"
             id="image"
             className="commonimg"
+             style={{marginTop:'4rem'}}
           />
           <div id="text-content">
             <ul>
@@ -171,7 +172,7 @@ function LinkedListData() {
             src={deleteHead}
             alt="Node Diagram"
             id="image"
-            className="commonimg"
+            className="commonimg" style={{marginTop:'4rem'}}
           />
           <div id="text-content">
             <ul>
@@ -242,6 +243,7 @@ function LinkedListData() {
             alt="Node Diagram"
             id="image"
             className="commonimg"
+            style={{marginTop:'3rem'}}
           />
           <div id="text-content">
             <ul>
@@ -288,7 +290,7 @@ function LinkedListData() {
             src={updateVal}
             alt="Node Diagram"
             id="image"
-            className="commonimg" style={{marginTop:'-0.2rem'}}
+            className="commonimg"
           />
           <div id="text-content">
             <ul>
@@ -335,7 +337,7 @@ function LinkedListData() {
             src={updateIndex}
             alt="Node Diagram"
             id="image"
-            className="right_img commonimg" style={{marginTop:'-0.2rem'}}
+            className="right_img commonimg"
           />
         </div>
       </div>
@@ -358,6 +360,7 @@ function LinkedListData() {
             alt="Node Diagram"
             id="image"
             className="commonimg"
+            style={{marginTop:'2.5rem'}}
           />
           <div id="text-content">
             <ul>
